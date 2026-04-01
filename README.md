@@ -10,7 +10,7 @@
 
 <p>
   MS in Computer Science at the University of Southern California <br/>
-  Based in Los Angeles, CA · Graduating Dec 2027
+  Based in Los Angeles, CA · Graduating May 2027
 </p>
 
 </div>
