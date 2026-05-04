@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Frederick Rao
+# 👋 Hi, I'm Jay Zhao
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=frederickzhao8-hub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
